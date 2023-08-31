@@ -75,7 +75,7 @@ const QuizList = [
             number4 : "<body> 태그는 html 문서의 내용을 나타냅니다.",
         },
         hint : "알아서 맞추세요.",
-        type: "html"
+        type: "js"
     },
     {
         id: 7,
